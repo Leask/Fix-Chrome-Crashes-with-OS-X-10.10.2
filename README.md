@@ -8,4 +8,3 @@ Original from: http://9to5mac.com/2014/11/30/google-chrome-crashes-hard-with-mac
 ## How to use?
 
 Just RUN the `run.sh` then do the rest.
-
